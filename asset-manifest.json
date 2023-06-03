@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/static/js/main.3752bba6.js",
-    "static/js/463.4b05101c.js": "/static/js/463.4b05101c.js",
+    "main.js": "/static/js/main.a31216fb.js",
+    "static/js/190.22173dbd.js": "/static/js/190.22173dbd.js",
     "static/media/MaterialCommunityIcons.ttf": "/static/media/MaterialCommunityIcons.5d42b4e60858731e7b65.ttf",
     "static/media/fashion.jpg": "/static/media/fashion.122c09f69f4e5d2fe3f4.jpg",
     "static/media/kanzhook.jpg": "/static/media/kanzhook.a1b9b68312eec04545e2.jpg",
@@ -11,11 +11,11 @@
     "favicon-16.png": "/favicon-16.png",
     "manifest.json": "/manifest.json",
     "serve.json": "/serve.json",
-    "main.3752bba6.js.map": "/static/js/main.3752bba6.js.map",
-    "463.4b05101c.js.map": "/static/js/463.4b05101c.js.map"
+    "main.a31216fb.js.map": "/static/js/main.a31216fb.js.map",
+    "190.22173dbd.js.map": "/static/js/190.22173dbd.js.map"
   },
   "entrypoints": [
-    "static/js/463.4b05101c.js",
-    "static/js/main.3752bba6.js"
+    "static/js/190.22173dbd.js",
+    "static/js/main.a31216fb.js"
   ]
 }
